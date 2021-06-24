@@ -1,0 +1,32 @@
+.modal-login {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    margin-left: 53%;
+}
+.modal_content{
+    background-color: white;
+    width: 320px;
+    height: 110px;
+    border: 1px solid gray;
+    padding: 10px;
+
+}
+.hidden {
+    display: none;
+}
+a {
+    text-decoration: none;
+    color: #f8585b;
+}
+
+img {
+    border: 0;
+}
+img {
+    max-width: 100%;
+    vertical-align: top;
+}
